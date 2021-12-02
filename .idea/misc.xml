@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/drawable/bg_button_home.xml" value="0.25833333333333336" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/drawable/btn_answer.xml" value="0.25833333333333336" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/drawable/btn_call_bg.xml" value="0.25833333333333336" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/drawable/btn_stop_bg.xml" value="0.25833333333333336" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/drawable/progressbar_time.xml" value="0.25833333333333336" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/drawable/rotate_shapeanim.xml" value="0.25833333333333336" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/layout/activity_home.xml" value="0.2421875" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/layout/m000_splash_frg.xml" value="0.2421875" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/layout/m001_background_home.xml" value="0.264" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/layout/m001_background_point_frg.xml" value="0.2421875" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/layout/m001_home_frg.xml" value="0.264" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/layout/m001_home_player.xml" value="0.2421875" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/layout/m001_home_player1.xml" value="0.264" />
+        <entry key="..\:/LearnAndroidThayThanh/AiLaTrieuPhuProject/app/src/main/res/layout/m002_player_frg.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

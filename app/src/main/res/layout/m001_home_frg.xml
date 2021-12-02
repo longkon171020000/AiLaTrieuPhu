@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_background"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="40dp"
+        android:orientation="vertical">
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:indeterminateBehavior="repeat"
+            android:indeterminateDuration="5000"
+            android:indeterminateDrawable="@drawable/rotate_shapeanim"
+            android:layout_height="match_parent"/>
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:src="@drawable/icon_logo_app" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/btn_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_button_home"
+        android:paddingHorizontal="90dp"
+        android:paddingVertical="10dp"
+        android:layout_gravity="center"
+        android:text="Bắt đầu"
+        android:textColor="@color/white"
+        android:textSize="21sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/bg_button_home"
+        android:paddingHorizontal="90dp"
+        android:paddingVertical="10dp"
+        android:text="Điểm cao"
+        android:textColor="@color/white"
+        android:textSize="21sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/bg_button_home"
+        android:paddingHorizontal="90dp"
+        android:paddingVertical="10dp"
+        android:text="Game khác"
+        android:textColor="@color/white"
+        android:textSize="21sp" />
+
+
+</LinearLayout>
